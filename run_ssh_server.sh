@@ -1,2 +1,2 @@
 #!/bin/bash#
-ngrok tcp 22 --region ap
+ngrok tcp 22
